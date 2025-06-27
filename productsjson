@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "4 Planters Set",
+      "originalPrice": 299.96,
+      "salePrice": 200.0,
+      "discount": 24,
+      "rating": 5,
+      "reviews": 3,
+      "image": "/placeholder.svg?height=300&width=300",
+      "badge": "VALUE BUNDLE",
+      "features": ["Ceramic", "Hand crafted"]
+    },
+    {
+      "id": 2,
+      "name": "Linen Cushion Bundle",
+      "originalPrice": 320.0,
+      "salePrice": 220.0,
+      "discount": 31,
+      "rating": 5,
+      "reviews": 2,
+      "image": "/placeholder.svg?height=300&width=300",
+      "badge": null,
+      "features": ["Linen blend", "Solid front"]
+    },
+    {
+      "id": 3,
+      "name": "Candleholder Set",
+      "originalPrice": 180.0,
+      "salePrice": 120.0,
+      "discount": 26,
+      "rating": 5,
+      "reviews": 1,
+      "image": "/placeholder.svg?height=300&width=300",
+      "badge": null,
+      "features": ["Striking simplicity", "Brushed brass"]
+    },
+    {
+      "id": 4,
+      "name": "Glass Vases Set",
+      "originalPrice": 250.0,
+      "salePrice": 150.0,
+      "discount": 39,
+      "rating": 5,
+      "reviews": 2,
+      "image": "/placeholder.svg?height=300&width=300",
+      "badge": null,
+      "features": ["Mouth blown glass", "Beautifully crafted"]
+    },
+    {
+      "id": 5,
+      "name": "Candle Collection",
+      "originalPrice": 180.0,
+      "salePrice": 120.0,
+      "discount": 33,
+      "rating": 4,
+      "reviews": 4,
+      "image": "/placeholder.svg?height=300&width=300",
+      "badge": "NEW",
+      "features": ["Natural wax", "Long burning"]
+    },
+    {
+      "id": 6,
+      "name": "Wooden Tray Set",
+      "originalPrice": 160.0,
+      "salePrice": 120.0,
+      "discount": 25,
+      "rating": 5,
+      "reviews": 3,
+      "image": "/placeholder.svg?height=300&width=300",
+      "badge": null,
+      "features": ["Solid wood", "Handmade"]
+    },
+    {
+      "id": 7,
+      "name": "Glass Bottle Set",
+      "originalPrice": 140.0,
+      "salePrice": 110.0,
+      "discount": 21,
+      "rating": 4,
+      "reviews": 2,
+      "image": "/placeholder.svg?height=300&width=300",
+      "badge": null,
+      "features": ["Recycled glass", "Minimalist design"]
+    },
+    {
+      "id": 8,
+      "name": "Linen Throw Bundle",
+      "originalPrice": 200.0,
+      "salePrice": 150.0,
+      "discount": 25,
+      "rating": 5,
+      "reviews": 5,
+      "image": "/placeholder.svg?height=300&width=300",
+      "badge": null,
+      "features": ["Pure linen", "Soft texture"]
+    }
+  ]
+}
