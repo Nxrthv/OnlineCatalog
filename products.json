@@ -8,8 +8,8 @@
       "discount": 24,
       "rating": 5,
       "reviews": 3,
-      "image": "/placeholder.svg?height=300&width=300",
-      "badge": "VALUE BUNDLE",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-pe-storefront-catalog/default/dw8c8a01a9/NATPER-152331_1.jpg",
+      "badge": null,
       "features": ["Ceramic", "Hand crafted"]
     },
     {
@@ -20,8 +20,8 @@
       "discount": 31,
       "rating": 5,
       "reviews": 2,
-      "image": "/placeholder.svg?height=300&width=300",
-      "badge": null,
+      "image": "https://bathbodype.vtexassets.com/arquivos/ids/169066-800-800?v=638296265030300000&width=800&height=800&aspect=true",
+      "badge": "NEW",
       "features": ["Linen blend", "Solid front"]
     },
     {
@@ -32,7 +32,7 @@
       "discount": 26,
       "rating": 5,
       "reviews": 1,
-      "image": "/placeholder.svg?height=300&width=300",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-pe-storefront-catalog/default/dwf4e17fcf/NATPER-70983_1.jpg",
       "badge": null,
       "features": ["Striking simplicity", "Brushed brass"]
     },
@@ -44,7 +44,7 @@
       "discount": 39,
       "rating": 5,
       "reviews": 2,
-      "image": "/placeholder.svg?height=300&width=300",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-pe-storefront-catalog/default/dw4d09920e/NATPER-122948_1.jpg",
       "badge": null,
       "features": ["Mouth blown glass", "Beautifully crafted"]
     },
@@ -56,7 +56,7 @@
       "discount": 33,
       "rating": 4,
       "reviews": 4,
-      "image": "/placeholder.svg?height=300&width=300",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-pe-storefront-catalog/default/dw40e6f2db/NATPER-73575_1.jpg",
       "badge": "NEW",
       "features": ["Natural wax", "Long burning"]
     },
@@ -68,7 +68,7 @@
       "discount": 25,
       "rating": 5,
       "reviews": 3,
-      "image": "/placeholder.svg?height=300&width=300",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-pe-storefront-catalog/default/dw89c37e9b/NATPER-80936_1.jpg",
       "badge": null,
       "features": ["Solid wood", "Handmade"]
     },
@@ -80,7 +80,7 @@
       "discount": 21,
       "rating": 4,
       "reviews": 2,
-      "image": "/placeholder.svg?height=300&width=300",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-pe-storefront-catalog/default/dwf2f3cce9/NATPER-134725_1.jpg",
       "badge": null,
       "features": ["Recycled glass", "Minimalist design"]
     },
@@ -92,7 +92,7 @@
       "discount": 25,
       "rating": 5,
       "reviews": 5,
-      "image": "/placeholder.svg?height=300&width=300",
+      "image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-pe-storefront-catalog/default/dw0b55129e/NATPER-174618_1.png",
       "badge": null,
       "features": ["Pure linen", "Soft texture"]
     }
