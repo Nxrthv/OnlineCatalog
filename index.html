@@ -165,6 +165,12 @@
                 button.addEventListener('click', () => filterByCategory(category.id, button));
                 filterContainer.appendChild(button);
             });
+            
+            // Add event listener to "Todos los Productos" button
+            const allProductsBtn = document.querySelector('[data-category="all"]');
+            if (allProductsBtn) {
+                allProductsBtn.addEventListener('click', () => filterByCategory('all', allProductsBtn));
+            }
         }
 
         // Filter products by category
@@ -175,8 +181,9 @@
                 btn.classList.add('bg-white', 'text-sage-700', 'border-2', 'border-sage-200');
             });
             
-            buttonElement.classList.add('active', 'bg-gradient-to-r', 'from-sage-600', 'to-rose-gold-600', 'text-white');
+            // Set active state for clicked button
             buttonElement.classList.remove('bg-white', 'text-sage-700', 'border-2', 'border-sage-200');
+            buttonElement.classList.add('active', 'bg-gradient-to-r', 'from-sage-600', 'to-rose-gold-600', 'text-white');
 
             // Filter products
             const filteredProducts = categoryId === 'all' 
