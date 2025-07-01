@@ -238,9 +238,9 @@
                     
                     <div class="p-6">
                         <div class="flex items-center justify-between mb-2">
-                            <span class="text-2xl font-bold text-sage-800">$${product.price.toFixed(2)}</span>
+                            <span class="text-2xl font-bold text-sage-800">S/ ${product.price.toFixed(2)}</span>
                             ${product.originalPrice ? `
-                                <span class="text-lg text-gray-500 line-through">$${product.originalPrice.toFixed(2)}</span>
+                                <span class="text-lg text-gray-500 line-through">S/ ${product.originalPrice.toFixed(2)}</span>
                             ` : ''}
                         </div>
                         
@@ -400,7 +400,7 @@
 
 Gracias 😊`;
 
-            const whatsappUrl = `https://wa.me/1234567890?text=${encodeURIComponent(message)}`;
+            const whatsappUrl = `https://wa.me/+51930821384?text=${encodeURIComponent(message)}`;
             window.open(whatsappUrl, '_blank');
         }
 
